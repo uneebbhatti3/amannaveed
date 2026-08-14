@@ -10,14 +10,14 @@ export const DATA = {
   name: "Aman Naveed",
   initials: "AN",
   // TODO: swap in your real portfolio domain once you deploy
-  url: "https://amannaveed.dev",
+  url: "https://amannaveed.vercel.app",
   location: "Lahore, Pakistan",
   locationLink: "https://www.google.com/maps/place/lahore",
   description:
     "BS Information Technology student building mobile apps, web platforms, and marketplace tools. Open to remote internships / entry-level software & mobile dev roles.",
   summary:
     "I'm a BS Information Technology student at the [University of Management and Technology (UMT)](/#education) with strong foundations in programming, networking, and database-driven application development. I'm proficient in C++, Java, Python, Flutter, and HTML/CSS, with hands-on project experience spanning mobile apps, marketplace platforms, and management systems. I recently completed the [Deloitte Technology Job Simulation](/#certifications) (Software Development Track, via Forage), and I'm actively looking for a remote internship or entry-level role in software or mobile app development where I can apply and grow these skills in a professional setting.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/me.jpg",
   skills: [
     { name: "C++", icon: Cpp },
     { name: "Java", icon: Java },
